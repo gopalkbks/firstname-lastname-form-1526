@@ -1,4 +1,4 @@
-    * {
+        * {
     box-sizing: border-box;
     }
 
@@ -80,6 +80,10 @@
     .three{
         clear: both;
     }
+        
+          body{
+            max-width: 50rem;
+        }
 
     }
 
@@ -102,6 +106,11 @@
     .three {
         clear: both;
     }
+        
+        body{
+            max-width: 50rem;
+            margin: 0 auto;
+        }
 
     }
 
@@ -124,7 +133,14 @@
     .three {
         clear: both;
     }
+        
+          body{
+            max-width: 50rem;
+              margin: 0 auto;
+        }
 
     }
+
+
 
 
